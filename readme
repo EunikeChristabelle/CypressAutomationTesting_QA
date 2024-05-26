@@ -1,0 +1,12 @@
+instal node/ dan npm dahulu
+
+install cypress:
+mkdir CypressAuto
+cd CypressAuto
+npm init
+enterr 
+YES
+npm install cypress --save-dev
+
+Buka dengan:
+npx cypress open
