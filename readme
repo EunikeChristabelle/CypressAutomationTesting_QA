@@ -1,4 +1,4 @@
-instal node/ dan npm dahulu
+instal node dan npm.yarn dahulu (ini pakai npm)
 
 install cypress:
 mkdir CypressAuto
